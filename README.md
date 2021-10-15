@@ -1,6 +1,6 @@
 # K-Wav2vec 2.0
 
-This official implementation of Paper
+This official implementation of ["K-Wav2vec 2.0: Automatic Speech Recognition based on Joint Decoding of Graphemes and Syllables"](https://arxiv.org/abs/2110.05172)
 
 ## Requirements and Installation
 
