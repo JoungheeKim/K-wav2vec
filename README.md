@@ -41,8 +41,8 @@ bash script/inference/evaluate_multimodel.sh
 ## Pretrained model
  - E-Wav2vec 2.0 : Wav2vec 2.0 pretrained on Englsih dataset released by Fairseq(-py)
  - K-Wav2vec 2.0 : The model further pretrained on Ksponspeech by using Englsih model
-  - Fairseq Version : If you want to fine-tune your model with fairseq framework, you can have further pretrained model from this [LINK](https://drive.google.com/file/d/1XJJ6A3xEMLjRbaO4z9FI-RP84fA4pvep/view?usp=sharing)
-  - Huggingface Version : If you want to fine-tune your model with huggingface framework, you can have further pretrained model from this  [LINK](https://drive.google.com/file/d/1Jm3-oylhjAdNjtZUQv-3uFAt0OMjLhJH/view?usp=sharing)
+    - Fairseq Version : If you want to fine-tune your model with fairseq framework, you can download with this [LINK](https://drive.google.com/file/d/1XJJ6A3xEMLjRbaO4z9FI-RP84fA4pvep/view?usp=sharing)
+    - Huggingface Version : If you want to fine-tune your model with huggingface framework, you can download with this [LINK](https://drive.google.com/file/d/1Jm3-oylhjAdNjtZUQv-3uFAt0OMjLhJH/view?usp=sharing)
 
 
 ## Dataset
