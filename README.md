@@ -8,7 +8,7 @@ This official implementation of ["K-Wav2vec 2.0: Automatic Speech Recognition ba
  - Python version >= 3.6
  - To install K-wav2vec and develop locally:
 ```bash
-git clone
+git clone https://github.com/JoungheeKim/K-wav2vec.git
 cd K-wav2vec
 
 ## install locally
