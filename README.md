@@ -11,6 +11,9 @@ This official implementation of ["K-Wav2vec 2.0: Automatic Speech Recognition ba
 git clone https://github.com/JoungheeKim/K-wav2vec.git
 cd K-wav2vec
 
+## install essential library
+pip install -r requirements.txt
+
 ## install locally
 python setup.py develop
 ```
