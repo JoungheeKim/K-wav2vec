@@ -11,9 +11,9 @@ RUN apt-get update \
   && ln -s /usr/bin/python3 python \
   && pip3 install --upgrade pip
 
-COPY requirements.txt /tmp
-WORKDIR /tmp
-RUN pip install -r requirements.txt
+# COPY requirements.txt /tmp
+# WORKDIR /tmp
+# RUN pip install -r requirements.txt
 
 RUN apt-get update && apt-get install -y git libsndfile-dev && apt-get clean
 RUN git clone https://github.com/NVIDIA/apex.git /apex && \
