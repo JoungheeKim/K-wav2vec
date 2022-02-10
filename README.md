@@ -25,7 +25,7 @@ python setup.py develop
 # Guilde to make multi-model with Ksponspeech(orthographic transcription) 
 
 # [1] preprocess dataset & make manifest
-bash script/preprocess/make_ksponspeech_script_for_multimodel.sh
+bash script/preprocess/make_ksponspeech_script_for_mulitmodel.sh
 
 # [2] further pre-train the model
 bash script/pretrain/run_further_pretrain.sh
