@@ -6,7 +6,7 @@
 ## before run code, please check config files to modify options required.
 
 python -W ignore fairseq_cli/hydra_train.py \
-  task.data=$(realpath .)/transcriptions/ksponspeech/character_spelling \
+  task.data=$(realpath .)/transcriptions/ksponspeech/grapheme_character_spelling \
   checkpoint.save_dir=$(realpath .)/save_checkpoint/pretrain/scratch_pretrain \
   task.del_silence=True \
   --config-dir configs/pretrain \
