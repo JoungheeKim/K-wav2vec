@@ -1,0 +1,17 @@
+torch
+torchaudio
+extension_helpers
+numpy
+jinja2
+astropy
+scipy
+editdistance
+pyctcdecode
+librosa
+tqdm
+pyyaml
+omegaconf
+hydra-core==1.0
+cython
+setuptools
+kenlm
